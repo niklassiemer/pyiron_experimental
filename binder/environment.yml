@@ -1,8 +1,4 @@
 channels:
 - conda-forge
 dependencies:
-- pyiron_base   # simulation framework 
-- temmeta       # TEM image post processing
-- pystem        # image segmentation
-- match-series  # ridge deformation 
-- scanf         # file path utility 
+- temmeta
