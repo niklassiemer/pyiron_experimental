@@ -6,6 +6,7 @@ from temmeta.plottingtools import get_scalebar
 from pystem.stemsegmentation import segmentationSTEM
 
 
+
 class pySTEMTEMMETAJob(TemplateJob):
     def __init__(self, project, job_name):
         super(pySTEMTEMMETAJob, self).__init__(project, job_name) 
